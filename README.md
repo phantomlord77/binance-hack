@@ -79,7 +79,7 @@ If you want to explore how real-world threats operate (purely for **academic res
 - **Offensive security tooling** – Used by red teams for authorized engagements.  
 
 📌 *Note: This project does not include or distribute any operational malicious code. All references are for lawful research and training purposes only.
-if you want to get real sh*t like fuctional things contact us in telegram*  
+if you want to get real sh%t like fuctional things contact us in telegram*  
 
 ---
 
