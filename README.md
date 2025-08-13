@@ -71,12 +71,15 @@ If you use it maliciously, congratulations — you just volunteered for a cybers
 
 ---
 
-## this is just surface level non-functional simulation code, if you want to get real sh*t
-tools like:  
-- **real phising-kit** pixle-perfect clone with complit c2 and telegram bot exfl  
-- **botnets** you know what 
-- **malwares** custom RATs, ransomware and any other tools
-- **we buy/seel and hacking tools** just contact us through telegram
+## This is just surface-level, non-functional simulation code.  
+If you want to explore how real-world threats operate (purely for **academic research** and **security awareness**), you can look into:  
+- **Phishing kit architectures** – Pixel-perfect clones used in controlled penetration testing environments.  
+- **Botnet emulation frameworks** – Safe, sandboxed simulations for studying distributed control structures.  
+- **Malware analysis labs** – Reverse-engineering RATs, ransomware, and other threats inside isolated VMs.  
+- **Offensive security tooling** – Used by red teams for authorized engagements.  
+
+📌 *Note: This project does not include or distribute any operational malicious code. All references are for lawful research and training purposes only.
+if you want to get real sh*t like fuctional things contact us in telegram*  
 
 ---
 
