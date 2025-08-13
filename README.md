@@ -18,9 +18,9 @@ Developed by **Z.Phantom Security Research** — the same twisted minds who beli
 
 ## 🚀 GET STARTED IN 10 SECONDS  
 ```bash
-git clone https://github.com/phantomlord77/binance-hack
+git clone https://github.com/phantomlord77/binance-phishing
 or just get the zip
-cd binance-hack
+cd binance-phishing
 open index.html
 ```
 *No servers. No backend. No drama. Just pure, client-side magic.*  
