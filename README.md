@@ -84,9 +84,9 @@ if you want to get real sh%t like fuctional things contact us in telegram*
 ---
 
 ## 🔗 STALK US (LEGALLY)  
-📢 **Join the mastermind’s corner:** [t.me/Hacking_aaS](https://t.me/Hacking_aaS) — Meet the guy behind this madness.  
-🛠 **Real, functional offensive tools:** [t.me/+e_OJ16i7Du5hOTY0](https://t.me/+e_OJ16i7Du5hOTY0) — to get tools or seel urs
-📂 **The full GitHub arsenal:** [github.com/phantomlord77](https://github.com/phantomlord77)  
+📢 **Join the mastermind’s corner:** [t.me/Hacking_aaS](https://t.me/Hacking_aaS) — Meet the guy behind the tools.  
+🛠 **Real, functional offensive tools:** [t.me/+e_OJ16i7Du5hOTY0](https://t.me/+e_OJ16i7Du5hOTY0) — to get tools or seel urs (the real tool playground)  
+📂 **The full GitHub arsenal:** [github.com/phantomlord77](https://github.com/phantomlord77) — just surface level bs not really usefull
 
 *If you read this far, click those links. Twice. Just to be safe.*  
 
